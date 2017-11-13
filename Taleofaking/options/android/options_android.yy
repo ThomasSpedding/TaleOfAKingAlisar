@@ -53,7 +53,6 @@
     "option_android_splash_screens_portrait": "${base_options_dir}\/android\/splash\/portrait.png",
     "option_android_splash_time": 0,
     "option_android_support_lib": "23.1.1",
-    "option_android_sync_amazon": false,
     "option_android_target_sdk": 23,
     "option_android_texture_page": "2048x2048",
     "option_android_tv_banner": "${base_options_dir}\\android\\tv_banner.png",

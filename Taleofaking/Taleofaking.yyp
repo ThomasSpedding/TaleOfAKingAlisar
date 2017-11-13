@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "ca340892-a0dd-429a-a38c-5d39317ea165",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
             "Key": "8a544701-548f-4bb5-b0c6-c260276c8244",
             "Value": {
                 "id": "9a3ab960-d639-437a-9437-48aa75c9ec05",
@@ -204,6 +212,14 @@
                 "id": "638b0287-425a-482c-ba13-7b31af943307",
                 "resourcePath": "sprites\\spr_terrain\\spr_terrain.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "e58b2dcb-bd64-4e11-8498-7be6f2952d3d",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -260,6 +276,14 @@
                 "id": "a50fd09d-83ef-40fa-b94c-7ff5930159b8",
                 "resourcePath": "views\\e070e741-a73d-4104-9b53-23583f78ecde.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "6636bb50-971d-4e23-8458-501492c72d97",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
             }
         },
         {
