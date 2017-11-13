@@ -50,7 +50,7 @@
             "Key": "1cd9f743-3286-46cc-8ff2-301895e35cd3",
             "Value": {
                 "id": "a7863f2a-1567-487a-8b26-9eba7b791f10",
-                "resourcePath": "objects\\obj_solid\\obj_solid.yy",
+                "resourcePath": "objects\\obj_terrain\\obj_terrain.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "1c1ad7d3-33a6-4b56-b72b-95cecce1261d",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
             "Key": "8e39adc7-44de-403b-82a3-dcd3f2e46f1b",
             "Value": {
                 "id": "321f2f12-d7c8-4f1a-ba6c-1082ce02e4c5",
@@ -252,6 +260,14 @@
                 "id": "a50fd09d-83ef-40fa-b94c-7ff5930159b8",
                 "resourcePath": "views\\e070e741-a73d-4104-9b53-23583f78ecde.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "25182961-f245-4159-98ac-e23e9cd0e496",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
             }
         },
         {
