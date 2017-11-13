@@ -1,5 +1,5 @@
-grav = 2.5;
-hsp = 0;
-vsp = 0;
-jumpspeed = 25;
-movespeed = 4;
+grav = 0.3;
+hspd = 0;
+vspd = 0;
+movespd = 3;
+jumpspd = 10;
