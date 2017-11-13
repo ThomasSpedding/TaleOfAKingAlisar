@@ -1,1 +1,1 @@
-activeR= 0;
+activeR = 0;

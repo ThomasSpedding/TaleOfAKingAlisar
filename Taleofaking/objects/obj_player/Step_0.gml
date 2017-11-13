@@ -19,7 +19,7 @@ if (place_meeting(x, y+vsp, obj_terrain))
 obj_arrowJump.active = 0;
 y += vsp;
 
-
+/*
 ///ryan hspeed
 if(obj_arrowRight.activeR == 1)
 {
@@ -37,3 +37,4 @@ if (place_meeting(x, y+hsp, obj_terrain))
 	
 	hsp = 0;
 }
+*/
