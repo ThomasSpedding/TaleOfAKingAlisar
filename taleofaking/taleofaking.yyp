@@ -474,7 +474,7 @@
             "Key": "9c82f7bf-e196-4565-9a0a-fb038d418185",
             "Value": {
                 "id": "e845b6d0-7a88-4adc-868b-bdc87b029afc",
-                "resourcePath": "objects\\obj_enemy_flying\\obj_enemy_flying.yy",
+                "resourcePath": "objects\\obj_pet\\obj_pet.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -612,6 +612,14 @@
                 "id": "69e1b65c-7f35-418c-adf0-351be0682ad0",
                 "resourcePath": "sprites\\spr_options\\spr_options.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dd638700-d22e-4c5a-86d1-5718c4d41ccb",
+            "Value": {
+                "id": "27370dfe-8318-48a2-ace2-5c495ae5c0f2",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {

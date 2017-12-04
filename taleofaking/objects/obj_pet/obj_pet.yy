@@ -2,7 +2,7 @@
     "id": "9c82f7bf-e196-4565-9a0a-fb038d418185",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemy_flying",
+    "name": "obj_pet",
     "eventList": [
         {
             "id": "15971880-39be-454d-9e9b-1fec110b4d86",
