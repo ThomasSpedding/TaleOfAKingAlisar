@@ -3,7 +3,7 @@
 if (instance_exists(obj_pet))
 {
 	move_towards_point(obj_player.x,obj_player.y,spd);
-	if (place_meeting(x+10 or(x-10), y+10 or(y-10), obj_player))
+	if (place_meeting(x+200 or(x-200), y+200 or(y-200), obj_player))
 	{
 		spd = 0; 
 	}
