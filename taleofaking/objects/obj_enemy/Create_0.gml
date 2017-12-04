@@ -1,3 +1,4 @@
 state = state_enemy.idle;
-vsp = 0;
-hsp = 0;
+vspd = 0;
+hspd = 0;
+grav = .3;

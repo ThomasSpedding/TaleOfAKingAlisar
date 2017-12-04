@@ -1,6 +1,6 @@
 enum state_enemy
 {
-	idle = 50,
+	idle,
 	chase
 }
 
