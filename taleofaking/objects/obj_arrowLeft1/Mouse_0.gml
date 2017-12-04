@@ -1,0 +1,1 @@
+obj_map_player.moveh = -5;
