@@ -1,4 +1,4 @@
 /// @description Insert description here
 hp = 1;
-spd = 8 ; 
+spd = 6 ; 
 
