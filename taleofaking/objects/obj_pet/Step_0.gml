@@ -3,11 +3,29 @@
 if (instance_exists(obj_pet))
 {
 	move_towards_point(obj_player.x,obj_player.y,spd);
-	if (place_meeting(x+200 or(x-200), y+200 or(y-200), obj_player))
+	if (point_distance(x, y, obj_player.x, obj_player.y) <= 175)
+	{
+		spd = 6; 
+	}
+	else if (point_distance(x, y, obj_player.x, obj_player.y) <= 150)
+	{
+		spd = 4; 
+	}
+	else if (point_distance(x, y, obj_player.x, obj_player.y) <= 125)
+	{
+		spd = 2; 
+	}
+	else if (point_distance(x, y, obj_player.x, obj_player.y) <= 100)
 	{
 		spd = 0; 
 	}
+	else
+	{
+	speed = spd;
+	}
 }
+else{}
+
 //else if(instance_exists(obj_wall)){
 //	move_towards_point(obj_wall.x,obj_wall.y,spd)
 
@@ -19,6 +37,15 @@ if (instance_exists(obj_pet))
 //if (place_meeting(x, y, obj_player)){
 //obj_player.life -= 1
 //}
+
+
+
+
+
+
+
+
+
 
 
 
