@@ -38,3 +38,46 @@ y += vspd;
 if (life =0){
 instance_destroy();
 }
+
+
+
+if(obj_arrowRight.right =1 )
+{
+	sprite_index = spr_right;
+}
+
+if(obj_arrowLeft.left =1 )
+{
+	sprite_index = spr_left;
+}
+
+if(hspd = 0) and (sprite_index = spr_left)
+{
+sprite_index = spr_stopl;	
+}
+
+if(hspd = 0) and (sprite_index = spr_right)
+{
+sprite_index = spr_stopr;	
+}
+
+//if(obj_arrowLeft.left and obj_arrowRight.right =0)
+//{
+//	image_index = 0;
+//	image_speed = 0;
+//}
+if (obj_arrowJump.up = 1) and (sprite_index = spr_right){
+sprite_index = spr_jump_right;
+}
+
+if (obj_arrowJump.up = 1) and (sprite_index = spr_left){
+sprite_index = spr_jump_left;
+}
+
+if (obj_arrowJump.up = 1) and (obj_arrowLeft.left = 1) and (sprite_index = spr_jump_right){
+sprite_index = spr_jump_left;
+}
+
+if (obj_arrowJump.up = 1) and (obj_arrowRight.right = 1) and (sprite_index = spr_jump_left){
+sprite_index = spr_jump_right;
+}

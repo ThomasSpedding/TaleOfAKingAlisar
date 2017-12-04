@@ -1,9 +1,10 @@
+image_index = 0;
 grav = 0.3;
 hspd = 0;
 vspd = 0;
 movespd = 3;
 jumpspd = 10;
-life = 3
+life = 3;
 
 px = x;
 py = y;
