@@ -9,3 +9,5 @@ px = x;
 py = y;
 dash = false;
 dashmo = false;
+
+state = scr_playerIdle;

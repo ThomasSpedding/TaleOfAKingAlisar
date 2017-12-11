@@ -14,7 +14,7 @@ switch (state)
 		dir = sign(obj_player.x - x);
 		hspd = dir * 3;
 		vspd = (min(7, vspd + 0.05));		
-		if (distance_to_object(obj_player) > 600) state = state_enemy.idle;
+		if (distance_to_object(obj_player) > 284) state = state_enemy.idle;
 	}
 	break;
 }
@@ -26,9 +26,10 @@ if (place_meeting(x+hspd,y,obj_wall)){
         x += sign(hspd);
 		
     }
-	if (place_meeting(x,y+1,obj_wall) and !state_enemy.idle){
+	if (place_meeting(x,y+1,obj_wall) and !state_enemy.idle)
+	{
 			vspd = -10;
-		}
+	}
     hspd = 0;
 }
 x += hspd;
