@@ -11,3 +11,4 @@ dash = false;
 dashmo = false;
 
 state = scr_playerIdle;
+playnext = 0;

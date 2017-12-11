@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "5450b73a-b38e-4f19-8275-76201d684493",
+            "Value": {
+                "id": "0fe89390-634c-4c1d-aaa2-f429a780be0c",
+                "resourcePath": "sprites\\spr_playerWalk\\spr_playerWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "56099f34-ee1e-4969-aec1-a21cfd6c1b0d",
             "Value": {
                 "id": "43964ae6-80c1-4683-b62b-a9532e09f3bd",
@@ -412,6 +420,14 @@
                 "id": "104f2093-9850-4fa4-98e8-d333a12ce23d",
                 "resourcePath": "sprites\\spr_playerSwingWep\\spr_playerSwingWep.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "759ef2bd-a1f6-49f8-9173-31e5afe9cec3",
+            "Value": {
+                "id": "d1424263-81d9-4e2c-9073-35ff347f2d2a",
+                "resourcePath": "scripts\\scr_playerSwingWep1\\scr_playerSwingWep1.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -811,7 +827,8 @@
         "35a35674-1f34-4e0f-a056-31d5d25860a9",
         "0178709b-c378-425d-95e1-eec4d1fc8254",
         "688ff1fb-f904-4699-b3bb-9a1e20f81f45",
-        "5b11574d-4c65-4f9e-ac6d-c346301c216b"
+        "5b11574d-4c65-4f9e-ac6d-c346301c216b",
+        "759ef2bd-a1f6-49f8-9173-31e5afe9cec3"
     ],
     "tutorial": ""
 }
