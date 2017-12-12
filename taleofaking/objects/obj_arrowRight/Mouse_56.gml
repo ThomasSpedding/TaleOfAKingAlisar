@@ -1,4 +1,6 @@
-left = 0
+right = 0
+active = 0;
+obj_player.movespd = 8;
 
 if (obj_player.state != scr_playerJump)
 {

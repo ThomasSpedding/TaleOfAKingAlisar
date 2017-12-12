@@ -8,7 +8,8 @@
         "0178709b-c378-425d-95e1-eec4d1fc8254",
         "688ff1fb-f904-4699-b3bb-9a1e20f81f45",
         "5b11574d-4c65-4f9e-ac6d-c346301c216b",
-        "759ef2bd-a1f6-49f8-9173-31e5afe9cec3"
+        "759ef2bd-a1f6-49f8-9173-31e5afe9cec3",
+        "0baea693-05a5-4e84-b419-4c082a8876de"
     ],
     "filterType": "GMScript",
     "folderName": "Player Movement",
