@@ -1,1 +1,0 @@
-obj_map_player.movev = 0;
