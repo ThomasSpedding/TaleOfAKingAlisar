@@ -615,6 +615,14 @@
             }
         },
         {
+            "Key": "9d761a59-1178-43d1-88cf-42e7852912e8",
+            "Value": {
+                "id": "78e3d53d-8807-440d-8476-48cae8a6019a",
+                "resourcePath": "notes\\double_tap.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "9e1ff5ed-3e31-4bc8-8028-8dfe7c6b5e7e",
             "Value": {
                 "id": "add2b619-93b8-45b0-b4c7-509eb3696540",
