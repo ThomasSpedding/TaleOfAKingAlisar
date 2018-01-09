@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "28a8b090-2beb-4839-b38b-151442c6e347",
+            "Value": {
+                "id": "11f47f72-9456-47f5-8bb7-ced558cd4404",
+                "resourcePath": "objects\\obj_templateSpeech\\obj_templateSpeech.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2f5568c4-7d12-4795-b6ab-727dd899c3e4",
             "Value": {
                 "id": "bda8b241-f78b-4abd-802e-52467984de67",
@@ -311,6 +319,22 @@
             }
         },
         {
+            "Key": "59d984c5-1e24-46a0-8231-097c18ad0dfb",
+            "Value": {
+                "id": "b3614c29-c71e-4d2a-8468-7200d187de07",
+                "resourcePath": "sprites\\spr_placeH\\spr_placeH.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5a66becc-71c6-42a2-8d51-18f829920df5",
+            "Value": {
+                "id": "08a6d60d-bc88-40de-84b3-a6b802700c95",
+                "resourcePath": "views\\5a66becc-71c6-42a2-8d51-18f829920df5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5b11574d-4c65-4f9e-ac6d-c346301c216b",
             "Value": {
                 "id": "7fd862c4-dbd8-4e8c-a8e4-1030bd356368",
@@ -479,6 +503,14 @@
             }
         },
         {
+            "Key": "85480d85-122a-44ca-9ec6-fd31cc5d119c",
+            "Value": {
+                "id": "94b82a2e-02a0-4c5d-81c5-4dec40432e3a",
+                "resourcePath": "fonts\\Main_font1\\Main_font1.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "85e5e00d-e32b-47fc-867b-61a0d0ebb77c",
             "Value": {
                 "id": "8ec78a0f-c1b3-422d-a9e7-48c93fdbf342",
@@ -604,6 +636,14 @@
                 "id": "546681ab-de72-4c12-907f-4ba0790c3b41",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a54eb780-10f4-4be6-98f8-ea682fbe7c57",
+            "Value": {
+                "id": "562ae9d3-7c13-47ef-b00d-ed66036d4209",
+                "resourcePath": "objects\\obj_roomGo\\obj_roomGo.yy",
+                "resourceType": "GMObject"
             }
         },
         {
